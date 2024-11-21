@@ -1,5 +1,7 @@
 # Contributing to platformOS Check
 
+We appreciate and welcome all contributions!
+
 ## Standards
 
 * Checks should do one thing, and do it well.
@@ -9,13 +11,24 @@
 * Be consistent. Write clean code that follows the [Ruby community standards](https://github.com/bbatsov/ruby-style-guide).
 * Code should be generic and reusable.
 
-## How to contribute
+## How to Contribute
 
-1. Fork it (https://github.com/Platform-OS/platformos-lsp).
-2. Create your feature branch (`git checkout -b my-new-feature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin my-new-feature`).
-5. Create a new Pull Request.
+Follow these steps to contribute to the project:
+
+1. **Fork the Repository**: Start by forking the project repository to your GitHub account. Click here to fork: [platformos-check fork](https://github.com/Platform-OS/platformos-check/fork).
+2. **Create a Feature Branch**: Create a branch for your new feature:
+   ```bash
+   git checkout -b my-new-feature
+   ```
+3. **Commit Changes**: Commit your changes to your branch:
+   ```bash
+   git commit -am 'Add some feature'
+   ```
+4. **Push to GitHub**: Push your changes to your GitHub repository:
+   ```bash
+   git push origin my-new-feature
+   ```
+5. **Submit a Pull Request**: Go to the original project repository and submit a pull request from your feature branch.
 
 ## Run Language Server
 

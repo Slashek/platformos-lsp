@@ -1,6 +1,6 @@
 ## Releasing platformOS Check
 
-Follow these steps to release a new version of latformOS Check:
+Follow these steps to release a new version of platformOS Check:
 
 1. **Versioning**: Refer to the [Semantic Versioning page](http://semver.org) to determine the appropriate version number for the new release based on the changes made.
 

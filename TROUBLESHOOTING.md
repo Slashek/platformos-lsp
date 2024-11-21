@@ -8,8 +8,8 @@ The following error can cause Language Server to crash:
 
 **Error Message:**
 ```bash
-Calling `DidYouMean::SPELL_CHECKERS.merge!(error_name => spell_checker)' has been deprecated. Please call `DidYouMean.correct_error(error_name, spell_checker)' instead.
-/Users/johndoe/.gem/ruby/3.1.2/gems/bundler-2.2.22/lib/bundler/spec_set.rb:91:in `block in materialize': Could not find ruby-prof-0.18.0 in any of the sources (Bundler::GemNotFound)
+Calling `DidYouMean::SPELL_CHECKERS.merge!(error_name => spell_checker)` has been deprecated. Please call `DidYouMean.correct_error(error_name, spell_checker)` instead.
+/Users/johndoe/.gem/ruby/3.1.2/gems/bundler-2.2.22/lib/bundler/spec_set.rb:91:in `block in materialize`: Could not find ruby-prof-0.18.0 in any of the sources (Bundler::GemNotFound)
 ```
 
 **Solution:**
